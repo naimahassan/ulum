@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import './default.css';
+import './fonts.css';
+// import './fonts/fontawesome-social-webfont.eot';
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
