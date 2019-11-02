@@ -6,21 +6,21 @@ class Home extends Component {
         <div id="three-column" className="container">
 	<div id="tbox1">
 		<div className="title">
-			<h2>Maecenas luctus</h2>
+			<h2>Madrasa</h2>
 		</div>
-		<p>Nullam non wisi a sem semper eleifend. Donec mattis libero eget urna. Duis pretium velit ac suscipit mauris. Proin interdum.</p>
+		<p>From young to old people come to be taught about the dean.</p>
 		<a href="#" className="button">Learn More</a> </div>
 	<div id="tbox2">
 		<div className="title">
-			<h2>Integer gravida</h2>
+			<h2>Maulid</h2>
 		</div>
-		<p>Proin eu wisi suscipit nulla suscipit interdum. Nullam non wisi a sem semper suscipit eleifend. Donec mattis libero eget urna.</p>
+		<p>Maulid is the practice of remembering the prophet(S.A.W) through kaswida .</p>
 		<a href="#" className="button">Learn More</a> </div>
 	<div id="tbox3">
 		<div className="title">
-			<h2>Praesent mauris</h2>
+			<h2>Mosque</h2>
 		</div>
-		<p>Donec mattis libero eget urna. Proin eu wisi suscipit nulla suscipit interdum. Nullam non wisi a sem suscipit semper eleifend.</p>
+		<p>At Ulumu there is omsque where people come and converge n pray to Allah(S.W.T)</p>
 		<a href="#" className="button">Learn More</a> </div>
 </div>
     )

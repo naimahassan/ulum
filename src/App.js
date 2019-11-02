@@ -15,7 +15,7 @@ class App extends Component {
           <Navbar/>
           <Home/>
           <Blog/>
-          <Contacts/>
+          {/* <Contacts/> */}
           <Footer/>
           {/* <Route path='/' component={Main} /> */}
         {/* </Router> */}
