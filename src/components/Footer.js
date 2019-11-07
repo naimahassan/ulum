@@ -8,7 +8,7 @@ class Footer extends Component {
             <div>
                 <header className="title">
                     <h2>Get in touch</h2>
-                    <span className="byline">Phasellus nec erat sit amet nibh pellentesque congue</span> </header>
+                    <span className="byline">Welcome to reach out and learn more</span> </header>
                 <ul className="contact">
                     <li><a href="#" className="icon icon-twitter"><span>Twitter</span></a></li>
                     <li><a href="#" className="icon icon-facebook"><span></span></a></li>
